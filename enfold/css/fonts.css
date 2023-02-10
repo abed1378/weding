@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "abeda";
+  src: url("../fonts/brockscript-webfont.eot");
+  src: url("../brockscript-webfont.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/brockscript-webfont.woff2") format("woff2"),
+    url("../fonts/brockscript-webfont.woff") format("woff"),
+    url("../fonts/brockscript-webfont.ttf") format("truetype"),
+    url("../fonts/brockscript-webfont.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "kamalu";
+  src: url("../fonts/alsscrp-webfont.eot");
+  src: url("../fonts/alsscrp-webfont.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/alsscrp-webfont.woff2") format("woff2"),
+    url("../fonts/alsscrp-webfont.woff") format("woff"),
+    url("../fonts/alsscrp-webfont.ttf") format("truetype"),
+    url("../fonts/alsscrp-webfont.svg#als_scriptregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "abed";
+  src: url("../fonts/greatvibes-regular-webfont.eot");
+  src: url("../fonts/greatvibes-regular-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/greatvibes-regular-webfont.woff2") format("woff2"),
+    url("../fonts/greatvibes-regular-webfont.woff") format("woff"),
+    url("../fonts/greatvibes-regular-webfont.ttf") format("truetype"),
+    url("../fonts/greatvibes-regular-webfont.svg#great_vibesregular")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "great";
+  src: url("../fonts/greatvibes-regular-webfont.eot");
+  src: url("../fonts/greatvibes-regular-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/greatvibes-regular-webfont.woff2") format("woff2"),
+    url("../fonts/greatvibes-regular-webfont.woff") format("woff"),
+    url("../fonts/greatvibes-regular-webfont.ttf") format("truetype"),
+    url("../fonts/greatvibes-regular-webfont.svg#great_vibesregular")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
